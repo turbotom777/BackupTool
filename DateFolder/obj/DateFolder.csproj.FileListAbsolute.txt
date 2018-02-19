@@ -1,0 +1,12 @@
+C:\Dokumente und Einstellungen\tom\source\Backup\DateFolder\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\tom\source\Backup\DateFolder\bin\Debug\DateFolder.exe
+C:\Dokumente und Einstellungen\tom\source\Backup\DateFolder\bin\Debug\DateFolder.pdb
+C:\Dokumente und Einstellungen\tom\source\Backup\DateFolder\obj\Debug\DateFolder.exe
+C:\Dokumente und Einstellungen\tom\source\Backup\DateFolder\obj\Debug\DateFolder.pdb
+C:\Dokumente und Einstellungen\tom\source\Backup\DateFolder\bin\Release\DateFolder.exe
+C:\Dokumente und Einstellungen\tom\source\Backup\DateFolder\bin\Release\DateFolder.pdb
+C:\Dokumente und Einstellungen\tom\source\Backup\DateFolder\obj\Release\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\tom\source\Backup\DateFolder\obj\Release\DateFolder.exe
+C:\Dokumente und Einstellungen\tom\source\Backup\DateFolder\obj\Release\DateFolder.pdb
+C:\Dokumente und Einstellungen\tom\Eigene Dateien\source\net\Backup\DateFolder\obj\Release\DateFolder.exe
+C:\Dokumente und Einstellungen\tom\Eigene Dateien\source\net\Backup\DateFolder\obj\Release\DateFolder.pdb

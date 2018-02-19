@@ -1,0 +1,16 @@
+bin\Debug\Backup.exe
+bin\Debug\Backup.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Backup.Form1.resources
+obj\Debug\Backup.Properties.Resources.resources
+obj\Debug\Backup.csproj.GenerateResource.Cache
+obj\Debug\Backup.exe
+obj\Debug\Backup.pdb
+bin\Release\Backup.exe
+bin\Release\Backup.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Backup.Form1.resources
+obj\Release\Backup.Properties.Resources.resources
+obj\Release\Backup.csproj.GenerateResource.Cache
+obj\Release\Backup.exe
+obj\Release\Backup.pdb

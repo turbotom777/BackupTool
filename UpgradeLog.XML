@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Backup">
+</Property><Property Name="Projektmappendatei" Value="C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\Backup.sln">
+</Property><Property Name="Benutzeroptionendatei" Value="C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\Backup.suo">
+</Property><Property Name="Date" Value="Freitag, 2. April 2010">
+</Property><Property Name="Time" Value="15:19">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Backup.sln" Description="Datei wurde erfolgreich als &quot;C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\Backup1\Backup.sln&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="" Source="Backup.suo" Description="Datei wurde erfolgreich als &quot;C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\Backup1\Backup.suo&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="Backup" Source="Backup\Backup.csproj" Description="Projektdatei erfolgreich gesichert als C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\Backup1\Backup\Backup.csproj">
+</Event><Event ErrorLevel="0" Project="Backup" Source="Backup\CopyThread.cs" Description="Datei erfolgreich gesichert als C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\Backup1\Backup\CopyThread.cs">
+</Event><Event ErrorLevel="0" Project="Backup" Source="Backup\Form1.cs" Description="Datei erfolgreich gesichert als C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\Backup1\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Backup" Source="Backup\Form1.Designer.cs" Description="Datei erfolgreich gesichert als C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\Backup1\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Backup" Source="Backup\Program.cs" Description="Datei erfolgreich gesichert als C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\Backup1\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Backup" Source="Backup\Properties\AssemblyInfo.cs" Description="Datei erfolgreich gesichert als C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\Backup1\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Backup" Source="Backup\Properties\Resources.Designer.cs" Description="Datei erfolgreich gesichert als C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\Backup1\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Backup" Source="Backup\Properties\Settings.Designer.cs" Description="Datei erfolgreich gesichert als C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\Backup1\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Backup" Source="Backup\Properties\Settings.settings" Description="Datei erfolgreich gesichert als C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\Backup1\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Backup" Source="Backup\Form1.resx" Description="Datei erfolgreich gesichert als C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\Backup1\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Backup" Source="Backup\Properties\Resources.resx" Description="Datei erfolgreich gesichert als C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\Backup1\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Backup" Source="Backup\Backup.csproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="Backup" Source="Backup\Backup.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DateFolder" Source="DateFolder\DateFolder.csproj" Description="Projektdatei erfolgreich gesichert als C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\Backup1\DateFolder\DateFolder.csproj">
+</Event><Event ErrorLevel="0" Project="DateFolder" Source="DateFolder\DateFolder.csproj.user" Description="Die Projektbenutzerdatei wurde erfolgreich als &quot;C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\Backup1\DateFolder\DateFolder.csproj.user&quot; gesichert.">
+</Event><Event ErrorLevel="0" Project="DateFolder" Source="DateFolder\Program.cs" Description="Datei erfolgreich gesichert als C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\Backup1\DateFolder\Program.cs">
+</Event><Event ErrorLevel="0" Project="DateFolder" Source="DateFolder\Properties\AssemblyInfo.cs" Description="Datei erfolgreich gesichert als C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\Backup1\DateFolder\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DateFolder" Source="DateFolder\DateFolder.csproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="DateFolder" Source="DateFolder\DateFolder.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Backup.sln" Description="Die Projektmappe wurde erfolgreich konvertiert.">
+</Event><Event ErrorLevel="3" Project="" Source="Backup.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Backup" Source="Backup\Backup.csproj" Description="Überprüfung abgeschlossen: Aktualisierung von Projektdateien nicht erforderlich.">
+</Event><Event ErrorLevel="0" Project="DateFolder" Source="DateFolder\DateFolder.csproj" Description="Überprüfung abgeschlossen: Aktualisierung von Projektdateien nicht erforderlich.">
+</Event></UpgradeLog>

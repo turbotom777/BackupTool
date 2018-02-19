@@ -1,0 +1,5 @@
+C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\DateFolder\bin\Debug\DateFolder.exe
+C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\DateFolder\bin\Debug\DateFolder.pdb
+C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\DateFolder\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\DateFolder\obj\Debug\DateFolder.exe
+C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\DateFolder\obj\Debug\DateFolder.pdb

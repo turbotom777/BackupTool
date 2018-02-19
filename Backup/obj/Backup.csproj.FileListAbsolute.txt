@@ -1,0 +1,16 @@
+C:\Dokumente und Einstellungen\tom\source\Backup\Backup\obj\Debug\Backup.exe
+C:\Dokumente und Einstellungen\tom\source\Backup\Backup\obj\Debug\Backup.pdb
+C:\Dokumente und Einstellungen\tom\source\Backup\Backup\bin\Debug\Backup.exe
+C:\Dokumente und Einstellungen\tom\source\Backup\Backup\bin\Debug\Backup.pdb
+C:\Dokumente und Einstellungen\tom\source\Backup\Backup\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\tom\source\Backup\Backup\obj\Debug\Backup.Form1.resources
+C:\Dokumente und Einstellungen\tom\source\Backup\Backup\obj\Debug\Backup.Properties.Resources.resources
+C:\Dokumente und Einstellungen\tom\source\Backup\Backup\obj\Debug\Backup.csproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\tom\source\Backup\Backup\bin\Release\Backup.exe
+C:\Dokumente und Einstellungen\tom\source\Backup\Backup\bin\Release\Backup.pdb
+C:\Dokumente und Einstellungen\tom\source\Backup\Backup\obj\Release\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\tom\source\Backup\Backup\obj\Release\Backup.Form1.resources
+C:\Dokumente und Einstellungen\tom\source\Backup\Backup\obj\Release\Backup.Properties.Resources.resources
+C:\Dokumente und Einstellungen\tom\source\Backup\Backup\obj\Release\Backup.csproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\tom\source\Backup\Backup\obj\Release\Backup.exe
+C:\Dokumente und Einstellungen\tom\source\Backup\Backup\obj\Release\Backup.pdb

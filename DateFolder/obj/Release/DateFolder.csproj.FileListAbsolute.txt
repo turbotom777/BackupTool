@@ -1,0 +1,2 @@
+C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\DateFolder\obj\Release\DateFolder.exe
+C:\Dokumente und Einstellungen\Tom\Eigene Dateien\source\net\Backup\DateFolder\obj\Release\DateFolder.pdb
